@@ -1,5 +1,6 @@
-# stone-mason-HenrikRButz
-stone-mason-HenrikRButz created by Classroom for GitHub
+/**
+ * StoneMasonKarel.java
+ **/
 public void run (){
 	BeeperUp();
 	MoveUp();
